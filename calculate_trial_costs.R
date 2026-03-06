@@ -1,6 +1,5 @@
 #========================================================
-# Trial cost calculation function with gamma distribution
-# BUT with deterministic point estimate as the mean
+# Trial cost calculation function
 #========================================================
 
 #' Calculate trial costs for different sample sizes
